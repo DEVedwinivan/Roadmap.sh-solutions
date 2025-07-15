@@ -1,8 +1,3 @@
-<style>
-  a{
-  color:black;
-  }
-</style>
 # <a href="https://roadmap.sh/frontend">Roadmap.sh-solutions</a> FrontEnd projects <br>
 <p>Where did I search for these projects</p>
 <a href="https://roadmap.sh/projects/single-page-cv">Single Page CV</a>
